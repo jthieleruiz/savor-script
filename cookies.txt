@@ -1,0 +1,8 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+savourschool.com.au	FALSE	/	TRUE	0	wp_automatewoo_session_started	1
+savourschool.com.au	FALSE	/	TRUE	1707193388	_lscache_vary	bbad3d0e29e76a015abe4f8b232ab05b
+savourschool.com.au	FALSE	/	TRUE	0	wordpress_logged_in_e2c4fc92eb97756ac6ff4ddee9d636c5	taylor.tate%7C1707193388%7CTsgektg7EOmrRV0zq3PcgQ6VpEVsKEdQElLspqPbQx6%7C0f100f7a5dd4e6ad76bb79e48753faadc328e9c199740fce3e47441ea0c2888f
+savourschool.com.au	FALSE	/	TRUE	1738556588	wp_automatewoo_visitor_e2c4fc92eb97756ac6ff4ddee9d636c5	z6ocrm2qmj0v7mdlsumi

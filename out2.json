@@ -1,0 +1,4 @@
+
+> savor@1.0.0 dev
+> tsc && node dist/crawler.js
+

@@ -1,0 +1,25 @@
+{
+  "name": "savor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc && node dist/crawler.js",
+    "build": "tsc",
+    "start": "node dist/crawler.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/cheerio": "^0.22.35",
+    "axios": "^1.6.5",
+    "cheerio": "^1.0.0-rc.12",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^21.7.0"
+  }
+}
